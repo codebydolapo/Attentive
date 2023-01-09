@@ -30,7 +30,7 @@ function Features() {
                     <h1 className = {`font-bold text-[#1e95d4] text-xl text-center`}>Unlimited Usecases</h1>
                 </div>
                 <div className={`w-full h-[70%] px-2  flex items-center justify-center`}>
-                    <p className = {`md:text-base text-center text-black xs:text-sm`}> Its ERC-20 and ERC-721 based grading  and credit system, <strong>Attentive&trade;</strong> has an unlimited number of usecases</p>
+                    <p className = {`md:text-base text-center text-black xs:text-sm`}> With its ERC-20 and 721-based grading  and credit system, <strong>Attentive&trade;</strong> has unlimited usecases</p>
                 </div>
             </div>
             
